@@ -1,0 +1,38 @@
+[
+  {
+    "precio": 5000,
+    "id": 1,
+    "title": "RIEGO",
+    "descrip": "https://i2.wp.com/irrinews.com/wp-content/uploads/2017/09/FOTO-25.jpg?w=750&ssl=1"
+  },
+  {
+    "precio": 80000,
+    "id": 2,
+    "title": "COSECHADORA",
+    "descrip": "https://www.ecowd.inf.br/cms/img/dropzone_upload/resized_155ae22cda66957_1524772058_600x.jpg"
+  },
+  {
+    "precio": 100000,
+    "id": 3,
+    "title": "DESTRUCTORA",
+    "descrip": "http://www.grupotecun.com/assets/images/costruccionguatemala04-1-600x338.jpg"
+  },
+  {
+    "precio": 10000,
+    "id": 4,
+    "title": "DESTRUCCION",
+    "descrip": "http://www.grupotecun.com/assets/images/equipolivianoguatemala01-600x338.jpg"
+  },
+  {
+    "precio": 15000,
+    "id": 5,
+    "title": "MADERA Y METAL",
+    "descrip": "http://www.grupotecun.com/assets/images/forestalguatemala02-600x338.jpg"
+  },
+  {
+    "precio": 150000,
+    "id": 6,
+    "title": "MONTACARGA",
+    "descrip": "http://www.grupotecun.com/assets/images/manejodecargaguate01-600x400.jpg"
+  }
+]
